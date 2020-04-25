@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "306100980275",
+    "firebase_url": "https://firestorecrud-1979a.firebaseio.com",
+    "project_id": "firestorecrud-1979a",
+    "storage_bucket": "firestorecrud-1979a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306100980275:android:a0533868bb1a76b5747146",
+        "android_client_info": {
+          "package_name": "com.example.firestorecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306100980275-gb87b34m1b8mpjm8krko5jedob7iv7lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ19BKvre0mYN4xtkpHRvidUcCgdmqEDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306100980275-gb87b34m1b8mpjm8krko5jedob7iv7lo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
